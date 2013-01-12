@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "title"
+title: "My first blog"
 date: 2013-01-10 00:18
 comments: true
 categories: 
 ---
+Everything starts from here.
